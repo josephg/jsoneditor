@@ -7,6 +7,12 @@
   "license": "MIT",
   "dependencies": {
     "choo": "^6.1.0",
-    "sheetify": "^6.2.0"
+    "discify": "^1.6.0",
+    "sheetify": "^6.2.0",
+    "unassertify": "^2.0.4",
+    "yo-yoify": "^4.0.0"
+  },
+  "browserify": {
+    "transform": ["sheetify"]
   }
 }
