@@ -1,0 +1,12 @@
+{
+  "name": "jsoneditor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:josephg/jsoneditor.git",
+  "author": "Joseph Gentle <me@josephg.com>",
+  "license": "MIT",
+  "dependencies": {
+    "choo": "^6.1.0",
+    "sheetify": "^6.2.0"
+  }
+}
